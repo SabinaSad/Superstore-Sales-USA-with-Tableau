@@ -63,5 +63,6 @@ For any inquiries or feedback regarding the project, please contact.
 Have a nice journey with me
 
 <img width="1545" alt="Screenshot 2024-03-06 at 13 39 22" src="https://github.com/SabinaSad/Superstore-Sales-USA-with-Tableau/assets/122239926/8b8a2afd-bf35-4c0f-aca7-5090013627d2">
-
+ Please see the link below for dashboard or download Tableau workbook from files section.
+ https://public.tableau.com/app/profile/sab.sab/viz/SuperstoreSalesUSA_17096881370860/Dashboard3?publish=yes
 
